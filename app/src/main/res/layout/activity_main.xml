@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:gravity="center"
+    android:background="#1a1a2e">
+
+    <TextView
+        android:id="@+id/moneyText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Money: $0"
+        android:textSize="32sp"
+        android:textStyle="bold"
+        android:textColor="#4ecca3"
+        android:layout_marginBottom="32dp"/>
+
+    <Button
+        android:id="@+id/clickButton"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:text="💰\nCLICK ME!"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:backgroundTint="#4ecca3"
+        android:textColor="#1a1a2e"
+        android:layout_marginBottom="32dp"/>
+
+    <TextView
+        android:id="@+id/statsText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Click Value: $1\nAuto-Clickers: 0\nIncome: $0/sec"
+        android:textSize="16sp"
+        android:textColor="#eeeeee"
+        android:gravity="center"
+        android:layout_marginBottom="32dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="UPGRADES"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:textColor="#eeeeee"
+        android:layout_marginBottom="16dp"/>
+
+    <Button
+        android:id="@+id/clickUpgradeButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Upgrade Click\n+$1 per click\nCost: $10"
+        android:textSize="16sp"
+        android:backgroundTint="#16213e"
+        android:textColor="#eeeeee"
+        android:layout_marginBottom="12dp"
+        android:padding="16dp"/>
+
+    <Button
+        android:id="@+id/autoClickerButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Buy Auto-Clicker\n+$1/sec\nCost: $50"
+        android:textSize="16sp"
+        android:backgroundTint="#16213e"
+        android:textColor="#eeeeee"
+        android:padding="16dp"/>
+
+</LinearLayout>
