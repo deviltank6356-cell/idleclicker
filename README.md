@@ -29,10 +29,10 @@ Summary: A fun incremental clicker game
 Description: |-
     A simple and addictive clicker game where you can:
     
-    * Click to earn money
-    * Upgrade your clicking power
-    * Buy auto-clickers for passive income
-    * Watch your earnings grow exponentially
+ * Click to earn money
+ * Upgrade your clicking power
+ * Buy auto-clickers for passive income
+ * Watch your earnings grow exponentially
     
     Features:
     * Clean and modern interface
