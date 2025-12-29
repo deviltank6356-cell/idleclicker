@@ -14,6 +14,7 @@ just a notice if anyone is confused they shouldnt be but just a notice
 
 ## build instructions
 F-droid build instructions are defined in the [METADATA file](METADATA.yaml)
+if any errors with build email me deviltank6356@gmail.com
 
 
 ### **License**
