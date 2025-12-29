@@ -13,6 +13,6 @@ just a notice if anyone is confused they shgouldnt be but jusyt a notice
 
 ### **License**
 ```markdown
-## License
+License
 
 This is project is licensed under GPL-3.0 for more information see the LICENSE page 
