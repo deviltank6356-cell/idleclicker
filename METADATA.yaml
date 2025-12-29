@@ -38,6 +38,8 @@ Builds:
     subdir: app
     gradle:
       - yes
+    gradleprops:
+  - android.useAndroidX=true
 
 AutoUpdateMode: Version v%v
 UpdateCheckMode: Tags
